@@ -3,5 +3,5 @@ title: <Hayk's web page>
 layout: default
 nav_order: 1
 ---
-#Heading1#
-## Heading2 ##
+# Heading 1
+## Heading 2
